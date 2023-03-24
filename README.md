@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I am a 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 1 year of experience, currently specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿. I have experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, Angular, PostgreSQL, React, Figma, Jira, Git/Github, Gerrit, MaterialUI, PrimeNG ...
+
 I'm currently looking for a front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
 
 💬 If you are interested in me, I would be glad to have a conversation.
 
 - Mail: mato4899@gmail.com
+- Linkedin: https://www.linkedin.com/in/martin-k%C5%88aze-55a2a126b/
+
 
 ### 🧰 Languages and Tools
 
@@ -19,7 +23,6 @@ I'm currently looking for a front-end or full-stack web developer position. I'm 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack"/>&nbsp;
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
